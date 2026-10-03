@@ -1,0 +1,4 @@
+interface:
+  display_name: "lishi · 历史精读与 Wiki"
+  short_description: "正史与学术文化史精读，原文锚点、纪事本末、文化专题和 Mermaid 图解"
+  default_prompt: "使用 $lishi 整理我提供的历史书，建立详细篇卷笔记、原文锚点、纪事本末事件档案、文化专题和 Mermaid 图表，并支持有来源的问答。"
